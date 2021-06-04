@@ -1,1 +1,5 @@
 ~ $ git clone https://github.com/11384antont/11384antont.github.io.
+~ $ cd 11384antont.github.io
+~ $ echo "Hello World" > index.html
+~ $ git add --all
+~ $ git push -u origin main
